@@ -19,8 +19,9 @@ CSS Modules<br>
 JavaScript (ES6)<br>
 
 <h1>💡 Learning<br>
-This project helped me practice:<br>
-React functional components<br>
-Managing state using useState<br>
-Handling user input and button clicks<br>
-Organizing styles with CSS Modules<br>
+  
+This project helped me practice
+React functional components
+Managing state using useState
+Handling user input and button clicks
+Organizing styles with CSS Modules
