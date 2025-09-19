@@ -9,3 +9,6 @@ This project was created to practice React fundamentals like components, state m
 - Built with React functional components<br>
 - State management using **useState**<br>
 - Styling handled with **CSS Modules**<br>
+
+## 🖼️ Screenshot
+![Calculator Screenshot](./[screenshot.png](https://github.com/abdu4751/React-Calculator-Project/blob/0892f4da4493c2d4db0a08d745e1f00bcc7de896/Calculator%20Project.png))  
