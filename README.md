@@ -10,6 +10,17 @@ This project was created to practice React fundamentals like components, state m
 - State management using **useState**<br>
 - Styling handled with **CSS Modules**<br>
 
-## 🖼️ Screenshot
-## 🖼️ Screenshot
-![Calculator Screenshot]https://github.com/abdu4751/React-Calculator-Project/blob/0892f4da4493c2d4db0a08d745e1f00bcc7de896/Calculator%20Project.png 
+## 🖼️ Screenshot<br>
+![Calculator Screenshot]![Calculator Screenshot](https://raw.githubusercontent.com/abdu4751/React-Calculator-Project/0892f4da4493c2d4db0a08d745e1f00bcc7de896/Calculator%20Project.png)<br>  
+
+📚 Tech Stack<br>
+React.js<br>
+CSS Modules<br>
+JavaScript (ES6)<br>
+
+💡 Learning<br>
+This project helped me practice:<br>
+React functional components<br>
+Managing state using useState<br>
+Handling user input and button clicks<br>
+Organizing styles with CSS Modules<br>
