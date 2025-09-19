@@ -1,0 +1,17 @@
+.ButtonContainer{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    row-gap: 10px;
+    column-gap: 10px;
+}
+.calculatorButton{
+       padding: 25px;
+    font-size: 1.2rem;
+ background-color: #142e44;
+   color: rgb(255, 158, 13);
+   font-weight: 600;
+    border: none;
+    border-radius: 10px;
+     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+   
+}
