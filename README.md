@@ -13,7 +13,7 @@ This project was created to practice React fundamentals like components, state m
 ## 🖼️ Screenshot<br>
 ![Calculator Screenshot](https://raw.githubusercontent.com/abdu4751/React-Calculator-Project/0892f4da4493c2d4db0a08d745e1f00bcc7de896/Calculator%20Project.png)<br>  
 
-<h1>##📚 Tech Stack</h1><br>
+<h1>📚 Tech Stack</h1><br>
 React.js<br>
 CSS Modules<br>
 JavaScript (ES6)<br>
